@@ -6,6 +6,9 @@ Candidates can use whatever method they wish to develop their machine learning m
 
 ## Dataset
 - Data Dictionary: The data dictionary of the dataset can be found below.
+
 [(https://drive.google.com/uc?id=1VQ-HAm0oHbv0GmDKP2iqqFNc5aI91OLn&export=download)]
+
 - Data Source: The dataset can be found below.
+
 [(https://drive.google.com/uc?export=download&confirm=6gh6&id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV)]
